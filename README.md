@@ -33,7 +33,9 @@ September 2026 and take about twenty minutes to watch in all.
 - `stills/` holds one frame of each piece, captured from the piece's own renderer.
   `og.jpg` is the link preview.
 
-Pieces marked *flashing lights* on the page contain flashes or fast cuts.
+Pieces marked *flashing lights* on the page contain flashes or fast cuts; those marked
+*mild flashing lights* (*A Beautiful Thread* and *Strange Loop*) have only a few brief
+flashes or inversions.
 
 ## Credits
 
